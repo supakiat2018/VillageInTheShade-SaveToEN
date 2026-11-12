@@ -21,7 +21,9 @@
 
 ## วิดีโอวิธีลงและวิธีใช้งาน (Video Guide)
 
-- ดูวิดีโอแนะนำวิธีลงและใช้งานได้ที่หน้า **[Releases](https://github.com/supakiat2018/VillageInTheShade-SaveToEN/releases)** (`how_to_install_and_use.mp4`)
+[![วิดีโอแนะนำวิธีลงและวิธีใช้งาน](https://img.youtube.com/vi/0oitAlgQu0E/0.jpg)](https://youtu.be/0oitAlgQu0E)
+
+▶️ **รับชมวิดีโอคลิกที่นี่:** [https://youtu.be/0oitAlgQu0E](https://youtu.be/0oitAlgQu0E)
 
 ---
 
