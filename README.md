@@ -21,7 +21,7 @@
 
 ## วิดีโอวิธีลงและวิธีใช้งาน (Video Guide)
 
-> *(สามารถลิงก์คลิปจาก GitHub Releases หรือ YouTube มาใส่ตรงนี้ได้เลย — ไฟล์ต้นฉบับอยู่นอก Git เพราะขนาด 162.66 MB เกินลิมิต 100 MB ของ GitHub)*
+- ดูวิดีโอแนะนำวิธีลงและใช้งานได้ที่หน้า **[Releases](https://github.com/supakiat2018/VillageInTheShade-SaveToEN/releases)** (`how_to_install_and_use.mp4`)
 
 ---
 
