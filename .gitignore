@@ -1,0 +1,8 @@
+# Build / temporary artifacts
+bin/*.lib
+output/staging/
+*.log
+
+# Video files over GitHub 100 MB limit (keep locally, upload via Releases/YouTube)
+*.mp4
+video/
